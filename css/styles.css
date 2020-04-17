@@ -1,0 +1,64 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url("../images/BackCSS.png");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #F000000;
+}
+
+
+.something {
+
+	background-color: #E41C1F;
+	width: 103px;
+	height: 63px;
+}
+
+.bigtext {
+	color: aliceblue;
+}
+
+#footer {
+	color: chocolate;
+}
+
+p {
+	font-size: 10px;
+}
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+h2 {
+	font-size: 25px;
+}
+h3 {
+	font-size: 15px; 
+}
+
+.nav {
+	color: red;
+}
+
+div.maincontent {
+	background-color: black;
+	margin-left: 50px;
+	margin-right: 50px;
+	
+		
+}
+
+footer {
+	paddig: 40px;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	background-color:  grey;
+	position: fixed;
+}
